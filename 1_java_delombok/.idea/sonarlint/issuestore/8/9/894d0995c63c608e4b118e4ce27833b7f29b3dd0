@@ -1,0 +1,14 @@
+
+r	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¾Şóıÿÿÿÿ8Á‘š¾Ø1
+m	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¸Ãî8Â‘š¾Ø1
+m	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÿ·ş8Â‘š¾Ø1
+m	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¥ÙŞ8Ã‘š¾Ø1
+l	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûíƒ8Ã‘š¾Ø1
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ”ë†ÿÿÿÿÿ8Ã‘š¾Ø1
+r	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÙ»şÿÿÿÿ8Ã‘š¾Ø1
+r	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â†æÁıÿÿÿÿ8Ã‘š¾Ø1
+r	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( —Ä°ıÿÿÿÿ8Ä‘š¾Ø1
+F
+java:S1905;")Remove this unnecessary cast to "Object".(“öºº8ß‘š¾Ø1
+^
+java:S1126D"AReplace this if-then-else statement by a single return statement.(ËÊÉ¡8æ‘š¾Ø1
